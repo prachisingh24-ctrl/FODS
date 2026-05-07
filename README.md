@@ -146,11 +146,11 @@ Can be integrated with:
 
 TeleMedi was developed through collaborative effort. My contributions added value in the following areas:
 
--Improved documentation for clarity and accessibility
+- Improved documentation for clarity and accessibility
 
--Conducted testing and provided feedback on symptom detection logic
+- Conducted testing and provided feedback on symptom detection logic
 
--Developed clear educational explanations of Trie and Levenshtein algorithms
+- Developed clear educational explanations of Trie and Levenshtein algorithms
 
 These efforts enhanced the project’s usability, strengthened its educational focus, and aligned with the team’s vision of building an intelligent healthcare assistant.
 
